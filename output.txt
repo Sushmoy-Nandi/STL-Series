@@ -1,0 +1,9 @@
+1
+not equal
+10 1 2 3 4 5 
+Size: 6
+Last Element= 5
+Sorted Element: 1 Sorted Element: 2 Sorted Element: 3 Sorted Element: 4 Sorted Element: 5 Sorted Element: 10 Last Element= 10
+1 2 3 4 5 
+Last Element= 5
+Size: 5
